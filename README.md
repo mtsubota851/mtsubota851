@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mtsubota851
+- 👋 Hi, I’m Matthew Tsubota
 - 👀 I’m interested in ... Data Analytics and Data Science 
 - 🌱 I’m currently learning ... Data Analytics
 - 💞️ I’m looking to collaborate on ... LinkedIn 
